@@ -35,5 +35,4 @@ O código está organizado na pasta `src`, que contém as seguintes subpastas:
 ## Hospedagem
 O projeto está hospedado no GitHub Pages. Acesse através do seguinte link:
 
-[https://henrique-moreno.github.io/PetShop---FrontEnd/](#)
 
