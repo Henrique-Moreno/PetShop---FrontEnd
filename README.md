@@ -29,9 +29,6 @@ O projeto segue boas práticas de desenvolvimento:
 O código está organizado na pasta `src`, que contém as seguintes subpastas:
 - **pages**: Páginas do site.
 - **javascript**: Scripts de validação e controle de exibição.
-- **imagens**: Ícones e imagens usadas no site.
+- **imagens**: imagens usadas no site.
+- **Ícones**: Ícones usadas no site.
 
-## Hospedagem
-O projeto está hospedado no GitHub Pages. Acesse através do seguinte link:
-
-[Link para a página](#)
